@@ -24,7 +24,7 @@
     "glob": "^5.0.15",
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^3.1.0",
-    "gulp-bump": "^1.0.0",
+    "gulp-bump": "^3.2.0",
     "gulp-env": "^0.2.0",
     "gulp-eslint": "^1.0.0",
     "gulp-if": "^2.0.0",
